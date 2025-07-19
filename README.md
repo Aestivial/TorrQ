@@ -4,8 +4,8 @@
 
 # Installation
 
-Perform a 'git clone' of this repo using:
+Perform a 'git clone' of this repo using cmd:
 `git clone https://github.com/Aestivial/TorrQ.git`
 
-Once it finishes, launch the app using cmd:
-'python torrent_client.py /path/to/your/file.torrent'
+Once it finishes, launch the app using:
+`python torrent_client.py /path/to/your/file.torrent`
